@@ -21,4 +21,4 @@ These codes are for educational purposes only. Practice solving them yourself be
 
 Feel free to fork or clone the repo for your own use.
 
-## ⚠️ AS SOME OF THE FILES ARE TOO BIG FOR GITHUB UPLOAD I'M GIVING THEM AS A SINGLE .rar FILE.
+## ⚠️ AS SOME OF THE FILES ARE TOO BIG FOR GITHUB UPLOAD I'M GIVING THEM AS .rar FILES.
